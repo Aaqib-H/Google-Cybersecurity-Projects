@@ -4,21 +4,23 @@ A portfolio of hands-on projects completed as part of the 6-month Google Cyberse
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Key Skills and Tools](#key-skills-and-tools)
+- [Key Skills and Tools Used](#key-skills-and-tools-used)
 - [Project Structure](#project-structure)
 - [Projects](#projects)
-  - [1. Vulnerability Scanning with Nmap](#1-vulnerability-scanning-with-nmap)
-  - [2. Metasploit Penetration Testing](#2-metasploit-penetration-testing)
-  - [More Projects...](#more-projects)
-- [Certifications](#certifications)
-- [Future Enhancements](#future-enhancements)
+  - [1. Conducting a Security Audit](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/1%20Conducting%20a%20Security%20Audit)
+  - [2. Incident Response with NIST CSF](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/2%20Incident%20Response%20with%20NIST%20CSF)
+  - [3. Managing File Permissions in Linux](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/3%20Managing%20File%20Permissions%20in%20Linux)
+  - [4. SQL Investigation](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/4%20SQL%20Investigation)
+  - [5. Incident Journal Documentation](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/5%20Incident%20Journal%20Documentation)
+  - [6. Python File Parsing Automation](https://github.com/Aaqib-H/Google-Cybersecurity-Projects/tree/main/6%20Python%20File%20Parsing%20Automation)
+- [Certification](#certification)
 
 ---
 
 ## Introduction
 This repository contains a series of cybersecurity projects developed throughout the Google Cybersecurity Professional Certificate program. Each project highlights a unique set of skills, tools, and methodologies to provide solutions for various cybersecurity challenges. Projects include detailed documentation of tools used, steps taken, and insights gained.
 
-## Key Skills and Tools
+## Key Skills and Tools Used
 
 | Project                          | Key Skills                    | Tools/Technologies           |
 |----------------------------------|-------------------------------|------------------------------|
@@ -32,7 +34,7 @@ This repository contains a series of cybersecurity projects developed throughout
 
 ## Project Structure
 
-Each project is organized into its own folder containing the following:
+Each project is organized into its own directory which may contain the following:
 - **README.md**: A project-specific overview and objectives.
 - **Scripts/Commands**: Key scripts, commands, or configurations.
 - **Screenshots/Reports**: Visual evidence of work, such as scan results, configurations, or incident logs.
@@ -68,9 +70,10 @@ Each project is organized into its own folder containing the following:
 
 ---
 
-## Certifications
+## Certification
 
-- **Google Cybersecurity Professional Certificate**: [View Certificate](https://www.credly.com/badges/9fd72c7e-2a33-4b74-9de9-dcd6f39dc46b)
+**Google Cybersecurity Professional Certificate**: [Verify Certificate](https://www.credly.com/badges/9fd72c7e-2a33-4b74-9de9-dcd6f39dc46b)
+![Certificate](https://github.com/user-attachments/assets/e58c2b38-f44e-4707-b432-fd54265490b1)
 
 
 
